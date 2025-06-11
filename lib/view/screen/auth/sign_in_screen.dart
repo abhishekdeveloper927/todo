@@ -42,7 +42,7 @@ class _SignInScreenState extends State<SignInScreen> {
               children: [
                 Image.asset(
                   Images.logo,
-                  width: Get.width / 2,
+                  width: 100,
                 ),
               ],
             ),

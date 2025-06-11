@@ -47,7 +47,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
               children: [
                 Image.asset(
                   Images.logo,
-                  width: Get.width / 2,
+                  width: 100,
                 ),
               ],
             ),
